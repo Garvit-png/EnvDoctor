@@ -1,0 +1,30 @@
+# Source files
+src/
+tests/
+tsconfig.json
+
+# Git
+.git
+.gitignore
+
+# Development files
+.env
+.env.*
+*.test.tmp
+*.integration.test
+
+# Documentation
+CONTRIBUTING.md
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
