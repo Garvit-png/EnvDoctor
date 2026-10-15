@@ -1,6 +1,6 @@
 {
   "name": "@garvitgandhi/dotenv-doctor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Catch environment configuration errors before they break your application",
   "main": "dist/cli.js",
   "bin": {
